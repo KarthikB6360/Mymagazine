@@ -730,7 +730,7 @@ background-color: var(--dark-color);
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: opacity 160s, visibility 5s;
+    transition: opacity 8s, visibility 5s;
 }
 .fade{
     opacity: 0;
